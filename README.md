@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Gabriel
 
-<!--
-**gabrielmariense/gabrielmariense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudante e praticante de **Cybersecurity & Pentest**  
+🐧 Linux | 🐍 Python | 🔐 Segurança Ofensiva
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Áreas de Interesse
+- Pentest Interno e Externo
+- Enumeração de serviços (Network / Web / AD)
+- Exploração e pós-exploração
+- Automação ofensiva com Python, Bash e C
+- Análise de logs e serviços
+- Linux e ambientes Windows
+
+---
+
+## 🛠️ Ferramentas & Tecnologias
+- **Sistemas:** Linux, Windows, Active Directory
+- **Linguagens:** Python, Bash, C, C++
+
+---
+
+## 📂 Projetos em Destaque
+
+🔐 **[hash-pipeline-cracker](https://github.com/gabrielmariense/hash-pipeline-cracker)**  
+Cracker de hashes em Python focado em cadeias não convencionais de transformação e encoding de dados.
+
+---
+
+## 🧪 Labs & Estudos
+📘 **[Labs de Pentest – DESEC Security](https://www.notion.so/gabrieltobiasm/261e0ce28ee0809198c6c75a3a55ff32?v=261e0ce28ee08168a384000cba82faaa)**  
+Notion completo com anotações, comandos e aprendizados práticos de ambientes controlados.  
+
+---
+
+## 📫 Contato & Perfis
+- LinkedIn: [Gabriel Mariense](https://www.linkedin.com/in/gabrielmariense/)
+- Hack The Box: [text](https://app.hackthebox.com/users/2351567)

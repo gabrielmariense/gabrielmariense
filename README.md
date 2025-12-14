@@ -36,4 +36,4 @@ Notion completo com anotações, comandos e aprendizados práticos de ambientes 
 
 ## 📫 Contato & Perfis
 - LinkedIn: [Gabriel Mariense](https://www.linkedin.com/in/gabrielmariense/)
-- Hack The Box: [text](https://app.hackthebox.com/users/2351567)
+- Hack The Box: [Erebbos](https://app.hackthebox.com/users/2351567)

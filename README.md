@@ -17,9 +17,7 @@
 
 ## 🛠️ Ferramentas & Tecnologias
 - **Sistemas:** Linux, Windows, Active Directory
-- **Linguagens:**
-    Intermediário: Python ,
-    Básico: Bash, Assembly, C, C++
+- **Linguagens:** Interm.: Python | Básico: Bash, Assembly, C, C++
 
 ---
 

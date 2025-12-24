@@ -37,3 +37,11 @@ Notion completo com anotações, comandos e aprendizados práticos de ambientes 
 ## 📫 Contato & Perfis
 - LinkedIn: [Gabriel Mariense](https://www.linkedin.com/in/gabrielmariense/)
 - Hack The Box: [Erebbos](https://app.hackthebox.com/users/2351567)
+- Boot.dev: [Gabriel Mariense](https://www.boot.dev/u/gabrielmariense)
+<p align="center">
+  <img 
+    src="https://api.boot.dev/v1/users/public/73e6b749-2e63-40e1-ab79-7636e9f4fd57/thumbnail"
+    width="500"
+    alt="Boot.dev profile badge"
+  >
+</p>

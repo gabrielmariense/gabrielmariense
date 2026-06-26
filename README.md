@@ -25,13 +25,12 @@
 
 ## 📂 Projetos em Destaque
 
-### 🔐 [hash-pipeline-cracker](https://github.com/gabrielmariense/hash-pipeline-cracker)
+### 🔐 [Hash-pipeline-cracker](https://github.com/gabrielmariense/hash-pipeline-cracker)
 
 Ferramenta em Python para análise e quebra de hashes em cadeias não convencionais de transformação e encoding de dados.
 
----
 
-### 🖥️ VNC-Menu
+### 🖥️ [VNC-Menu](https://github.com/gabrielmariense/VNC-Menu)
 
 Ferramenta em Python com interface gráfica para organizar e abrir conexões VNC de forma mais rápida e padronizada.
 

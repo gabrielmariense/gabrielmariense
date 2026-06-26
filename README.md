@@ -1,30 +1,39 @@
 # 👋 Gabriel
 
-🎯 Estudante e praticante de **Cybersecurity & Pentest**  
-🐧 Linux | 🐍 Python | 🔐 Segurança Ofensiva
+🎯 Estudante de TI focado em **Cybersecurity, Pentest e automação de ferramentas**  
+🐧 Linux | 🪟 Windows | 🐍 Python | 🔐 Segurança Ofensiva
 
 ---
 
 ## 🧠 Áreas de Interesse
-- Pentest Interno e Externo
-- Enumeração de serviços (Network / Web / AD)
+- Pentest interno e externo
+- Enumeração Web, Network, Linux, Windows e Active Directory
 - Exploração e pós-exploração
-- Automação ofensiva com Python, Bash e C
-- Análise de logs e serviços
-- Linux e ambientes Windows
+- Análise de vulnerabilidades e serviços expostos
+- Automação com Python e Bash
+- Desenvolvimento de ferramentas para uso interno
+- Segurança ofensiva aplicada em ambientes controlados
 
 ---
 
 ## 🛠️ Ferramentas & Tecnologias
 - **Sistemas:** Linux, Windows, Active Directory
-- **Linguagens:** Interm.: Python | Básico: Bash, Assembly, C, C++
+- **Linguagens:** Python, Bash, C, C++, Assembly
+- **Conceitos:** Web Security, OWASP, enumeração, privilege escalation, logs e automação
 
 ---
 
 ## 📂 Projetos em Destaque
 
-🔐 **[hash-pipeline-cracker](https://github.com/gabrielmariense/hash-pipeline-cracker)**  
-Cracker de hashes em Python focado em cadeias não convencionais de transformação e encoding de dados.
+### 🔐 [hash-pipeline-cracker](https://github.com/gabrielmariense/hash-pipeline-cracker)
+
+Ferramenta em Python para análise e quebra de hashes em cadeias não convencionais de transformação e encoding de dados.
+
+---
+
+### 🖥️ VNC-Menu
+
+Ferramenta em Python com interface gráfica para organizar e abrir conexões VNC de forma mais rápida e padronizada.
 
 ---
 
@@ -34,14 +43,17 @@ Notion completo com anotações, comandos e aprendizados práticos de ambientes 
 
 ---
 
+## 📌 Atualmente estudando
+
+- Pentest em Active Directory
+- Web Security
+- Exploração de CVEs
+- Desenvolvimento de ferramentas ofensivas e auxiliares
+- Python aplicado à segurança
+
+---
+
 ## 📫 Contato & Perfis
 - LinkedIn: [Gabriel Mariense](https://www.linkedin.com/in/gabrielmariense/)
 - Hack The Box: [Erebbos](https://app.hackthebox.com/users/2351567)
 - Boot.dev: [Gabriel Mariense](https://www.boot.dev/u/gabrielmariense)
-<p align="center">
-  <img 
-    src="https://api.boot.dev/v1/users/public/73e6b749-2e63-40e1-ab79-7636e9f4fd57/thumbnail"
-    width="500"
-    alt="Boot.dev profile badge"
-  >
-</p>
